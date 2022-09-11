@@ -1,0 +1,38 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(208, 208, 208);
+}
+h2 {
+  font-size: 40px;
+  color: rgb(30, 29, 29);
+}
+.input {
+  margin: 0px;
+  padding: 10px 0px;
+  border: 3px solid silver;
+  border-radius: 10px;
+  font-size: 20px;
+  width: auto;
+}
+.container {
+  text-align: center;
+  background-color: rgb(208, 208, 208);
+}
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.button {
+  width: 60px;
+  padding: 20px 20px;
+  margin: 3px 3px;
+  background-color: mistyrose;
+  border: 2px solid silver;
+  border-radius: 10px;
+  cursor: pointer;
+}
